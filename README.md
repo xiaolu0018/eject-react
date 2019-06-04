@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App] and eject(https://github.c
 
 MockJs + mocker-api (mockJs for random data,mocker-api for http-server,axios for ajax)
 
-axios config => src/ajax.js
-ajax-url config => src/url.js
-mocker-api config => data/mockapi.js
+axios config => src/ajax.js<br>
+ajax-url config => src/url.js<br>
+mocker-api config => data/mockapi.js<br>
 mock data => data/*.js
 
 
