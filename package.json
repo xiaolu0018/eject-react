@@ -138,5 +138,5 @@
     "concurrently": "^4.1.0",
     "mocker-api": "^1.7.6"
   },
-  "proxy": "http://127.0.0.1:3722"
+  "proxy": "http://127.0.0.1:3721"
 }
